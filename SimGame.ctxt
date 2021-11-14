@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SimGame
+comment0.text=\r\n\ SimGame\ class\ will\ help\ to\ simulate\ the\ result\ of\ the\ pickup\ game\r\n\r\n\ @author\ (Sean\ Kennedy)\r\n\ @version\ (Version\ 3\ -\ Enhanced\ Version)\r\n
+comment1.params=quarterlength
+comment1.target=int\ simScore(int)
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=tOneSim
+comment0.text=\r\n\ tOneSim\ -\ Synchronization\ for\ team\ score\r\n\r\n\ @author\ (Sean\ Kennedy)\r\n\ @version\ (Final\ Project\ -\ Enhanced)\r\n
+comment1.params=t1\ score
+comment1.target=tOneSim(SimGame,\ int)
+comment2.params=
+comment2.target=void\ run()
+numComments=3
